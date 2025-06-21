@@ -16,5 +16,5 @@ Thank you! I hope you enjoy!!
 
 **Enjoy!**
 
-![Example in HTML](htmlExample.png)
+[Example in HTML](htmlExample.png)
 * [My GitHub](https://github.com/SebulaET)
