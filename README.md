@@ -1,4 +1,4 @@
-# Pink And Green Pastels README
+# Pink & Green Pastels README
 
 ## Images
 
