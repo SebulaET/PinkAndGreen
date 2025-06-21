@@ -16,5 +16,5 @@ Thank you! I hope you enjoy!!
 
 **Enjoy!**
 
-* [Example in HTML](https://imgur.com/a/cZvsxK2)
+![Example in HTML](https://github.com/SebulaET/PinkAndGreen/blob/main/htmlExample.png?raw=true)
 * [My GitHub](https://github.com/SebulaET)
