@@ -1,0 +1,22 @@
+{
+  "name": "PinkAndGreen",
+  "displayName": "Pink & Green Pastels",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "PinkAndGreen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PinkAndGreen-color-theme.json"
+      }
+    ]
+  }
+}
